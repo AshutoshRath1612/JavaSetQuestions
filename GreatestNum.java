@@ -1,4 +1,4 @@
-package SetQuestions;
+package JavaSetQuestions;
 //Write a java program to find greatest between two numbers without using if-else and
 //conditional operator. (in-built method should not be used)
 

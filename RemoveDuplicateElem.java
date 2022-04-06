@@ -2,6 +2,10 @@ package JavaSetQuestions;
 
 import java.util.Arrays;
 
+/*
+Write a java program to remove duplicate element from a sorted array without using any
+other data structure including array.
+ */
 public class RemoveDuplicateElem {
     public static void main(String[] args) {
         int [] arr = {1 ,2,3,4,1,2,3,2,4,3,2,5,1,2,4,4,5,2};
